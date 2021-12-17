@@ -9,4 +9,34 @@ First ol all create the variables. Three of them are input variable and priority
 ![variables](https://user-images.githubusercontent.com/43918312/146545104-8dfb7f14-72e5-4aa0-9e2b-b17caeaae465.PNG)
 
 After that create membership functions:
+
 ![membership_function](https://user-images.githubusercontent.com/43918312/146545581-727d8ee1-8a4e-4ab6-83ef-e1f9b344a8b3.PNG)
+
+After creating membership functions vitualize data:
+
+![data_visualization](https://user-images.githubusercontent.com/43918312/146546183-375ec85d-106e-437c-b533-532f149f7772.PNG)
+
+These are the pngs of input and output graphics of fuzzy logic steps:
+
+1-) Waiting Time:
+
+![waiting_time](https://user-images.githubusercontent.com/43918312/146546511-37cb19a9-b4b5-4455-8771-f6b9db30bd47.PNG)
+
+2-) Distance:
+
+![distance](https://user-images.githubusercontent.com/43918312/146546554-b64ae0d3-6fc9-467c-bca9-f5cb6b57150d.PNG)
+
+
+3-) Load Capacity:
+
+![load_capacity](https://user-images.githubusercontent.com/43918312/146546606-c4bec165-f2e5-45db-a8c6-9b8691255704.PNG)
+
+
+4-) Priority:
+
+![priority](https://user-images.githubusercontent.com/43918312/146546630-e32ca3df-6a13-412d-a415-74ecef8d3d38.PNG)
+
+
+
+
+
