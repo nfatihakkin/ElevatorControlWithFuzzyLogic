@@ -77,6 +77,15 @@ We have to calculate union sets now. Actually, this three steps are some but we 
 
 ![union_sets](https://user-images.githubusercontent.com/43918312/146548921-b123d944-dedc-422c-8e01-e0357600ca7a.PNG)
 
+Now we are at fuzzy logic last step : Defuzzification.
+
+![defuzzification](https://user-images.githubusercontent.com/43918312/146549197-21c322ef-9255-4efb-9931-6440bcefc4b4.PNG)
+
+And we finally have result and completed fuzzy logic steps. After that we take these outputs:
+
+![result](https://user-images.githubusercontent.com/43918312/146549477-4277856b-1899-4583-9921-94c892563612.PNG)
+
+Before this result there is some controls of elevator system. You can look code page.
 
 
 
