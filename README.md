@@ -1,4 +1,4 @@
-# ElevatorControlWithFuzzyLogic
+# Elevator Control With Fuzzy-Logic
 Elevator group control system using fuzzy logic triangular membership function
 
 In this project i've made a elevator group control system using fuzzy logic. Elevator groups are normally used in commercial buildings and their control can be carried out in different ways, for instance by using the nearest elevator for attending the hall calls or by using a selection process, which evaluates multiple criteria 
