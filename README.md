@@ -59,7 +59,7 @@ Elevator 3:
 
 ![el3_degree](https://user-images.githubusercontent.com/43918312/146547848-956dbee8-d28b-402c-ac08-06ca671bc57f.PNG)
 
-We have everyting but the rules. Because of we have to create rules. But if we want to decrese waiting time with fuzzy logic, we have to calculate each elevator's. So, i create 11 different rules and we are going to use these rules for each elevator. We have 3 elevators that means we have 33 rules.
+We have everyting but the rules. Because of that we have to create rules. But if we want to decrese waiting time with fuzzy logic, we have to calculate each elevator's. So, i create 11 different rules and we are going to use these rules for each elevator. We have 3 elevators that means we have 33 rules.
 
 Elevator 1 rules:
 
